@@ -62,11 +62,12 @@ Eksempel:
 
 ## Linker til alle kilder og bilder
 
-**API:** 
+**API:** https://dattebayo-api.onrender.com/characters
 
-**Bakkgrunnsbildet:** 
+**Bakkgrunnsbildet:** blob:https://akershusfylke.sharepoint.com/9c0cec7d-bb4e-4c0d-a69e-c7ecde4f66ce
 
 ---
+
 
 
 
