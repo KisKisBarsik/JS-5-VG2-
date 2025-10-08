@@ -31,7 +31,7 @@ Dette nettside kan brukes for å finne de flesete karakterer i serien.
 
 Eksempel:
 
-- **Åpne applikasjonen i nettleseren**: Skrive inn på nettleserens søk field denne lenken: 
+- **Åpne nettside i nettleseren**: Skrive inn på nettleserens søk field denne lenken: https://kiskisbarsik.github.io/JS-5-VG2-/
   
 - **Bruke API-et**: 
   - For å hente informasjon om karakter skal du skrive inn navnet til karakteren i søk field på nettside. Da blir dataene fra API hentet automatisk og da blir bildet og faktoer om karakter dukkes opp på skjermen
@@ -67,6 +67,7 @@ Eksempel:
 **Bakkgrunnsbildet:** blob:https://akershusfylke.sharepoint.com/9c0cec7d-bb4e-4c0d-a69e-c7ecde4f66ce
 
 ---
+
 
 
 
