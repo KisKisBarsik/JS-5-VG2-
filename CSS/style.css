@@ -1,0 +1,141 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+/* Banner and search input */
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.startContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imageDiv {
+    width: 100%;
+
+    margin: 40px 0px 0px 0px;
+}
+
+.image {
+    width: 1800px;
+    border: none;
+    border-radius: 5px 60px 5px 60px;
+}
+
+
+
+.searchInput {
+    display: flex;
+    align-items: center;
+
+    width: 660px;
+    background-color: rgb(53, 49, 49);
+
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+    border: 2px solid white;
+    border-radius: 5px;
+    outline: none;
+
+    padding: 5px;
+    margin: 50px;
+}
+
+#input0 {
+    width: 600px;
+    background-color: rgb(53, 49, 49);
+
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+    border: none;
+    outline: none;
+
+    margin: 0;
+    padding: 10px;
+}
+
+#input0::placeholder {
+    color: rgb(204, 204, 204);
+}
+
+#submit0 {
+    background-color: red;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+    border-radius: 3px;
+}
+
+#submit0:hover {
+    background-color: rgb(233, 12, 12);
+}
+
+.searchIcon {
+    width: 35px;
+
+    margin: 5px 20px 5px 20px;
+}
+
+/* Banner and search input */
+
+
+
+
+
+/* Self div with info */
+
+#mainContent {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 420px;
+    height: 600px;
+    background-color: rgb(53, 49, 49);
+
+    border-radius: 5px;
+
+    padding: 40px;
+    margin: 0px 0px 70px 0px;
+}
+
+#images {
+    display: flex;
+    flex-direction: row;
+}
+
+#image {
+    min-width: 400px;
+
+    border-radius: 15px;
+    
+    margin: 20px;
+}
+
+#textInfo0, #textInfo1, #textInfo2 {
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+    padding: 20px 0px 0px 0px;
+}
+
+
+/* Self div with info */
